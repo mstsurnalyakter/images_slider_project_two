@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #252424;
+  
+}
+main{
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    color: crimson;
+    padding-bottom: 5px;
+     font-size: 5rem;
+     text-align: center;
+     font-style: italic;
+}
+button{
+    box-sizing: border-box;
+    width: 14rem;
+    padding: 1rem;
+    color: crimson;
+    font-weight: bold;
+    background-color: burlywood;
+    font-size: 3rem;
+}
